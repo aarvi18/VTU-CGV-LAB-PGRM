@@ -4,7 +4,7 @@
 
 2. Create and rotate a triangle about the origin and a fixed point.
 
-3.Program to draw a color cube and spin it using OpenGL transformation matrices.
+3. Program to draw a color cube and spin it using OpenGL transformation matrices.
 
 4. Program to draw a color cube and allow the user to move the camera suitably to experiment with perspective viewing.
 
