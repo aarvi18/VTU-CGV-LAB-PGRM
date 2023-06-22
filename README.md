@@ -19,7 +19,7 @@
 9. Develop a menu driven program to fill any given polygon using scanline area filling algorithm.
 
 
-Dijkstras-Algorithm
+# Dijkstras-Algorithm
 
 Simulation of Dijkstra's Algorithm written in C using OpenGL graphics library.
 Video on YouTube
